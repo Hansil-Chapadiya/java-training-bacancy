@@ -2,6 +2,13 @@ package Session3;
 
 public class Overriding2 extends Overriding1{
     
+    int val;
+    Overriding2(){
+
+    }
+    Overriding2(int val){
+        this.val = 0;
+    }
     @Override
     public void getMessage(){
         
