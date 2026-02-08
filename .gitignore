@@ -1,4 +1,5 @@
 Resources/
 *.class
 
+out/
 .idea/
